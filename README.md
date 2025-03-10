@@ -5,7 +5,7 @@
 
 - ⭐I’m currently in my last year of a Bachelor's Degree studying and in my final year of a Bachelor's degree in Computer Engineering
 - 🌱 At the moment I'm learning and improving my Python and JavaScript skills by doing and working with schoolwork every other week
-- 📫 How to reach me **maria.cleto.rocha@gmail.com**
+- 💜 How to reach me **maria.cleto.rocha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
