@@ -1,11 +1,11 @@
 <h1 align="center">Hi ✨, I'm Maria</h1>
 <h3 align="center">
-  🎀I’m a dedicated Computer Engineering student at the University of Minho, always ready to step out of my comfort zone and tackle new challenges. Outside of coding, you’ll often find me discovering new movies and tv shows, traveling to fresh places, or exploring creative projects. I’m always eager to learn, share experiences, and collaborate on exciting adventures.
+I’m a dedicated Computer Engineering student at the University of Minho, always ready to step out of my comfort zone and tackle new challenges. Outside of coding, you’ll often find me discovering new movies and tv shows, traveling to fresh places, or exploring creative projects. I’m always eager to learn, share experiences, and collaborate on exciting adventures.
 </h3>
 
-- ⭐I’m currently in my last year of a Bachelor's Degree studying Computer Engineering
-- 🌱 At the moment I'm learning and improving my Python and JavaScript skills by doing and working with schoolwork every other week
-- 💜 How to reach me **maria.cleto.rocha@gmail.com**
+- I’m currently in my last year of a Bachelor's Degree studying Computer Engineering
+- At the moment I'm learning and improving my Python and JavaScript skills by doing and working with schoolwork every other week
+- How to reach me **maria.cleto.rocha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
